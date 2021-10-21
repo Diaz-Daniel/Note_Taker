@@ -29,4 +29,4 @@ This project is an introduction to modify starter code to create an application 
 
 ## Link to Website
 
-- [Note_Taker.com](https://diaz-daniel.github.io/Random_Code/)
+- [Note_Taker.com](https://safe-shore-96091.herokuapp.com/)
